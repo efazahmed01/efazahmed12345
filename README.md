@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on student<br>🌱 I’m currently learning C and php<br>💬 Ask me about anything<br>⚡ Fun fact -I am Lazy<br>🤝 Need Any Help, Contuct me.
+🔭 I’m currently working on php programing<br>🌱 I’m currently learning C and php<br>💬 Ask me about anything<br>⚡ Fun fact -I am Lazy<br>🤝 Need Any Help, Contuct me.
 
 
 ## 🌐 Socials:
